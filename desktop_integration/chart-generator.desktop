@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Chart Generator
+Comment=Generate charts from clipboard data automatically
+Exec=/usr/local/bin/chart_generator auto
+Icon=chart-generator
+Terminal=false
+Categories=Graphics;Office;Development;
+Keywords=chart;graph;visualization;data;clipboard;
+StartupNotify=true

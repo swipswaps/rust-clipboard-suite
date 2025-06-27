@@ -1,0 +1,1 @@
+/home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/target/release/clipboard_tool: /home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/src/main.rs

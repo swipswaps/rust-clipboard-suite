@@ -1,0 +1,1 @@
+/home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/rust/clipboard_manager/target/release/clipboard_manager: /home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/rust/clipboard_manager/src/main.rs

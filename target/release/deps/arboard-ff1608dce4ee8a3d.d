@@ -1,0 +1,11 @@
+/home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/target/release/deps/libarboard-ff1608dce4ee8a3d.rmeta: /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/lib.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/common.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/mod.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/mod.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/x11.rs
+
+/home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/target/release/deps/libarboard-ff1608dce4ee8a3d.rlib: /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/lib.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/common.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/mod.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/mod.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/x11.rs
+
+/home/owner/Documents/6854a1da-e23c-8008-a9fc-76b7fa3c1f92/target/release/deps/arboard-ff1608dce4ee8a3d.d: /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/lib.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/common.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/mod.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/mod.rs /home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/x11.rs
+
+/home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/lib.rs:
+/home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/common.rs:
+/home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/mod.rs:
+/home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/mod.rs:
+/home/owner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.5.0/src/platform/linux/x11.rs:

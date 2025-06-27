@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Clipboard Manager
+Comment=Comprehensive clipboard management with chart generation
+Exec=/usr/local/bin/clipboard_manager_gui
+Icon=clipboard-manager
+Terminal=false
+Categories=Utility;Office;
+Keywords=clipboard;copy;paste;history;charts;
+StartupNotify=true
+StartupWMClass=clipboard-manager
